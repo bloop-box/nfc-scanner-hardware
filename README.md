@@ -1,4 +1,4 @@
-# NFC2USB
+# Bloop NFC Scanner Hardware
 
 [![CI](https://github.com/bloop-box/nfc-scanner-hardware/actions/workflows/ci.yml/badge.svg)](https://github.com/bloop-box/nfc-scanner-hardware/actions/workflows/ci.yml)
 
