@@ -1,11 +1,11 @@
 # NFC2USB
 
-[![CI](https://github.com/Qeteshpony/NFC2USB/actions/workflows/ci.yml/badge.svg)](https://github.com/Qeteshpony/NFC2USB/actions/workflows/ci.yml)
+[![CI](https://github.com/bloop-box/nfc-scanner-hardware/actions/workflows/ci.yml/badge.svg)](https://github.com/bloop-box/nfc-scanner-hardware/actions/workflows/ci.yml)
 
 
-![3D Render](https://qeteshpony.github.io/NFC2USB/3D/NFC2USB-3D_top.png)
+![3D Render](https://bloop-box.github.io/nfc-scanner-hardware/3D/NFC2USB-3D_top.png)
 
-[Documentation](https://qeteshpony.github.io/NFC2USB)
+[Documentation](https://bloop-box.github.io/nfc-scanner-hardware)
 
 
 Connect an RC522 based NFC-Reader to your computer using USB
