@@ -1911,7 +1911,7 @@
       (reference "U2") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/70d53594-902a-4a22-a9ca-c5d940f502fc/2562bb15-a690-45ea-b999-1ed9afd54851"
-      (reference "U3") (unit 1) (value "W25Q32JVSS") (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm")
+      (reference "U3") (unit 1) (value "W25Q32JVUU") (footprint "My_Footprints:USON8 (3x4)")
     )
     (path "/70d53594-902a-4a22-a9ca-c5d940f502fc/0184291d-2c82-4cd0-a4ef-d27cc230691a"
       (reference "U4") (unit 1) (value "RP2040") (footprint "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm")
