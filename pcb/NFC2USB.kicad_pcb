@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "NFC2USB")
+    (title "Bloop NFC Scanner")
     (date "${DATE}")
     (rev "${VERSION}")
   )
@@ -4703,7 +4703,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify right mirror))
   )
   (gr_text "${TITLE}\n${VERSION} ${DATE}" (at 120.5 70 90) (layer "B.SilkS") (tstamp 2acb9068-c6f5-41aa-a39a-c5e69fd77e0e)
-    (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
+    (effects (font (size 1.5 1.2) (thickness 0.2)) (justify mirror))
   )
   (gr_text "3V3" (at 103.5 61.1) (layer "B.SilkS") (tstamp 4a62609d-49b0-4a39-adc4-ecb9a490ff34)
     (effects (font (size 1 1) (thickness 0.15)) (justify right mirror))

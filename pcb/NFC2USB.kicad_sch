@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "NFC2USB")
+    (title "Bloop NFC Scanner")
     (date "${DATE}")
     (rev "${VERSION}")
   )
