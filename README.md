@@ -18,6 +18,6 @@ The board is designed using KiCAD 6 with production and assembly by JLCPCB in mi
 ## Case
 A simple case design can be found in the case subfolder. It fits when the two boards are connected with standard angled 2.54mm pitch connectors as seen in the picture. 
 
-The two halves can be connected with countersunk M3x8 screws
+The two halves can be connected with self-tapping, countersunk M3x6 screws
 
 ![Case](./case/NFC-Reader-Case.jpg)
