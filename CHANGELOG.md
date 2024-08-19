@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/bloop-box/nfc-scanner-hardware/compare/v1.1.0...v1.1.1) (2024-08-19)
+
+
+### Bug Fixes
+
+* add part number for connector ([bab07bb](https://github.com/bloop-box/nfc-scanner-hardware/commit/bab07bbc806345245da13e44c615cc944e2ff816))
+
 ## [1.1.0](https://github.com/bloop-box/nfc-scanner-hardware/compare/v1.0.0...v1.1.0) (2023-10-01)
 
 
