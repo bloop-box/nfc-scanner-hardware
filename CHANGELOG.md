@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/bloop-box/nfc-scanner-hardware/compare/v1.1.1...v1.1.2) (2025-07-14)
+
+
+### Bug Fixes
+
+* add 0.5mm to case height ([4aae765](https://github.com/bloop-box/nfc-scanner-hardware/commit/4aae765620e758a14f88c02a17b93429b2671eaa))
+
 ## [1.1.1](https://github.com/bloop-box/nfc-scanner-hardware/compare/v1.1.0...v1.1.1) (2024-08-19)
 
 
